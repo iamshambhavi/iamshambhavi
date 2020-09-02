@@ -5,7 +5,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science and Machine Learning.\
 ✍️ &nbsp;In my free time, I like to code and solve puzzles.\
 ✉️ &nbsp;You can shoot me an email at sahayshambhavi99@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/iamshambhavi/iamshambhavi/blob/master/Assets/Shambhavi_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img height="180em" alt="Night Coding" src="https://github.com/iamshambhavi/iamshambhavi/blob/master/Assets/GirlWhoCode.gif" align="right"/>
 
