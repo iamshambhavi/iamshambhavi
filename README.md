@@ -7,7 +7,7 @@
 ✉️ &nbsp;You can shoot me an email at sahayshambhavi99@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
 
-<img height="180em" alt="Night Coding" src="https://media1.tenor.com/images/d737faef15d4e979a385cdb1e540c8ef/tenor.gif?itemid=13247664" align="right"/>
+<img height="180em" alt="Night Coding" src="https://github.com/iamshambhavi/iamshambhavi/blob/master/Assets/GirlWhoCode.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
