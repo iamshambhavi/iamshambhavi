@@ -7,7 +7,7 @@
 ✉️ &nbsp;You can shoot me an email at sahayshambhavi99@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/iamshambhavi/iamshambhavi/blob/master/Assets/Shambhavi_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img height="180em" alt="Night Coding" src="https://github.com/iamshambhavi/iamshambhavi/blob/master/Assets/GirlWhoCode.gif" align="right"/>
+<img height="160em" alt="Night Coding" src="https://github.com/iamshambhavi/iamshambhavi/blob/master/Assets/GirlWhoCode.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,7 +30,7 @@
 <p align="center">
 <a href="https://github.com/iamshambhavi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamshambhavi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamshambhavi&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamshambhavi&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
