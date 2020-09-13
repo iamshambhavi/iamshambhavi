@@ -4,7 +4,7 @@
 🎓 &nbsp;I'm currently persuing BE in Computer Science at Thapar Institute of Engineering and Technology, Patiala.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science and Machine Learning.\
 ✍️ &nbsp;In my free time, I like to code and solve puzzles.\
-✉️ &nbsp;You can shoot me an email at sahayshambhavi99@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at sahayshambhavi99@gmail.com! I'll try to respond as soon as I can.
 
 <img height="160em" alt="Night Coding" src="https://github.com/iamshambhavi/iamshambhavi/blob/master/Assets/GirlWhoCode.gif" align="right"/>
 
